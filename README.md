@@ -93,4 +93,5 @@ Esses desafios contribuíram para aprendizados importantes, como:
 ## Autores
 
 Mariah Cesar: @Mraiahh
+
 Rômulo Lopes: @romulolpaula
